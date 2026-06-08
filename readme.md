@@ -37,7 +37,7 @@ ho -> po
 ```
 
 # 2. Âm ghép
-- Cột i (ngoại trừ i) kết hợp với hàng ya
+- Cột i (ngoại trừ i) kết hợp với hàng ya (viết nhỏ)
 ```
 ki + ya -> kya
 ki + yu -> kyu
@@ -82,4 +82,19 @@ bi + yo -> byo
 pi + ya -> pya
 pi + yu -> pyu
 pi + yo -> pyo
+```
+
+# 3. Âm ngắt
+- Là một khoảng lặng, ngắt giữa hai âm
+- Biểu thị bằng chữ `tsu` viết nhỏ giữa hai âm
+- Cách đọc, nhân đôi phụ âm liền sau
+
+# 4. Trường âm
+- Là âm được đọc kéo dài
+```
+- Trường âm của cột a là âm a
+- Trường âm của cột i là âm i
+- Trường âm của cột u là âm u
+- Trường âm của cột e là âm e và âm i
+- Trường âm của cột o là âm o và âm u
 ```
